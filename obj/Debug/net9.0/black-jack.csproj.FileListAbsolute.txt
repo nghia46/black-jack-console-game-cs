@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\black-jack\bin\Debug\net9.0\black-jack.exe
+C:\Users\Administrator\Desktop\black-jack\bin\Debug\net9.0\black-jack.deps.json
+C:\Users\Administrator\Desktop\black-jack\bin\Debug\net9.0\black-jack.runtimeconfig.json
+C:\Users\Administrator\Desktop\black-jack\bin\Debug\net9.0\black-jack.dll
+C:\Users\Administrator\Desktop\black-jack\bin\Debug\net9.0\black-jack.pdb
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.dll
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\refint\black-jack.dll
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.pdb
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\black-jack.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\black-jack\obj\Debug\net9.0\ref\black-jack.dll
